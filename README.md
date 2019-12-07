@@ -29,11 +29,11 @@ and chicago house price.
 second hottest side is north side. From the graph "The most expensive communities in Chicago", the hottest community is
 near north side.
 * Percentage change from 2012 - 2019:
-    2013: There was a 15.22% median sale price per square feet increase in 2013 compared to 2012.
-    2014: There was a 12.55% median sale price per square feet increase in 2014 compared to 2013.
-    2015: There was a 5.06% median sale price per square feet increase in 2015 compared to 2014.
-    2016: There was a 6.78% median sale price per square feet increase in 2016 compared to 2015.
-    2017: There was a 4.44% median sale price per square feet increase in 2017 compared to 2016.
-    2018: There was a 3.19% median sale price per square feet increase in 2018 compared to 2017.
-    2019: There was a 2.32% median sale price per square feet increase in 2019 compared to 2018.
+    * 2013: There was a 15.22% median sale price per square feet increase in 2013 compared to 2012.
+    * 2014: There was a 12.55% median sale price per square feet increase in 2014 compared to 2013.
+    * 2015: There was a 5.06% median sale price per square feet increase in 2015 compared to 2014.
+    * 2016: There was a 6.78% median sale price per square feet increase in 2016 compared to 2015.
+    * 2017: There was a 4.44% median sale price per square feet increase in 2017 compared to 2016.
+    * 2018: There was a 3.19% median sale price per square feet increase in 2018 compared to 2017.
+    * 2019: There was a 2.32% median sale price per square feet increase in 2019 compared to 2018.
 * May, June and July are the hot months. 
