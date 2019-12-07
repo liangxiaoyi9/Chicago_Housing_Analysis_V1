@@ -1,4 +1,4 @@
-# IS590 Fall 2019 Final Project
+# chicago_housing_analysis.py
 
 
 import pandas as pd

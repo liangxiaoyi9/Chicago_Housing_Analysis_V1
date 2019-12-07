@@ -1,21 +1,39 @@
-# IS590_final_project
-
-# Project: Chicago Housing Analysis 
-Comprehensive house prices analysis for the city of Chicago in US. 
+# Project: Is the Chicago housing market still growing?
+Plotting graphs to analyze Chicago housing market. 
 
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Data Source](#setup)
+* [Conclusions](#conclusions)
 
 ## General info
-THe housing market looks already recovered from last economic crisis. I'm doing the analysis for the below hypothesis 
-or questions. (pending)
+The housing market looks already recovered from last economic crisis. I'm doing the analysis to answer my hypothesis 
+and questions as following: 
 * Chicago Housing is growing up from 2012 - current.
 * Mortgage rate has positive relationship with the numbers of home sold. 
 * Which area is the most expensive in Chicago?
 * How much did price increase/decrease over the years?
 * Is there a particular month where houses are sold more?
 
-## Technologies
-project is created with Pycharm professional version. 
+## Data Source
+ * Housing Data provided by Redfin https://www.redfin.com/blog/data-center/, a national real estate brokerage.
+ * 30-year fixed mortgage data provided by Federal Reserve Bank of St. Louis https://fred.stlouisfed.org/series/MORTGAGE30US
+
+## Conclusions 
+* Overall, the Chicago housing market is still growing but has slowed down from 2012 to current (2019). The median sale 
+price per square foot is continually increasing but the percentage of increase each year has decreased. Also, the 
+average monthly unit home sales has decreased since 2017. 
+* According to the mortgage vs. house price graph, there is no direct relationship between 30-year fixed mortgage rate
+and chicago house price.
+* From the graph "Median Sale Price Psf in Chicago (by side)", the hottest side in Chicago is central Chicago, the 
+second hottest side is north side. From the graph "The most expensive communities in Chicago", the hottest community is
+near north side.
+* Percentage change from 2012 - 2019:
+    2013: There was a 15.22% median sale price per square feet increase in 2013 compared to 2012.
+    2014: There was a 12.55% median sale price per square feet increase in 2014 compared to 2013.
+    2015: There was a 5.06% median sale price per square feet increase in 2015 compared to 2014.
+    2016: There was a 6.78% median sale price per square feet increase in 2016 compared to 2015.
+    2017: There was a 4.44% median sale price per square feet increase in 2017 compared to 2016.
+    2018: There was a 3.19% median sale price per square feet increase in 2018 compared to 2017.
+    2019: There was a 2.32% median sale price per square feet increase in 2019 compared to 2018.
+* May, June and July are the hot months. 
