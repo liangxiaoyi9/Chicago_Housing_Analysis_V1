@@ -5,12 +5,14 @@ Plotting graphs to analyze Chicago housing market.
 * [General info](#general-info)
 * [Data Source](#setup)
 * [Conclusions](#conclusions)
+* [Tools](#Tools)
 
 ## General info
 The housing market looks already recovered from last economic crisis. I'm doing the analysis to answer my hypothesis 
 and questions as following: 
 * Chicago Housing is growing up from 2012 - current.
-* Mortgage rate has positive relationship with the numbers of home sold. 
+* The rise of house price in Chicago has slowed down
+* Mortgage rate has negative relationship with the numbers of home sold. 
 * Which area is the most expensive in Chicago?
 * How much did price increase/decrease over the years?
 * Is there a particular month where houses are sold more?
@@ -37,3 +39,6 @@ near north side.
     * 2018: There was a 3.19% median sale price per square feet increase in 2018 compared to 2017.
     * 2019: There was a 2.32% median sale price per square feet increase in 2019 compared to 2018.
 * May, June and July are the hot months. 
+
+## Tools
+Pycharm 3.7
