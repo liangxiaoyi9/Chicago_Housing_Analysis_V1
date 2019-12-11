@@ -1,0 +1,7 @@
+Property Type,Region,Avg Sale To List,Homes Sold,Inventory,Median Dom,Median List Ppsf,Median List Price,Median Sale Ppsf,Median Sale Price,months_of_supply,New Listings,off_market_in_two_weeks,pending_sales,Period Begin,Period Duration,Period End,Price Drops,Sold Above List
+All Residential,"Chicago, IL metro area",0.945128438,5774,41171,101,118.9736246,185000,98.43043363,$150K,7.1,11715,0.160374091,10938,3/1/2012,30,3/31/2012,0.265696728,0.171977832
+All Residential,"Chicago, IL - Albany Park",0.975401653,100,113,38,176.744479,289000,183.4651518,$283K,,161,0.28,161,2/1/2017,90,4/30/2017,,0.23
+All Residential,"Chicago, IL - Albany Park",0.983371794,107,130,47.5,193.7056738,311950,198.8888889,$297K,,128,0.271028037,110,7/1/2019,90,9/30/2019,,0.214953271
+All Residential,"Chicago, IL - Southwest Side",0.982301069,552,988,58,65.66342776,99900,70.1754386,$100K,,859,0.210144928,766,1/1/2014,90,3/31/2014,,0.30615942
+All Residential,"Chicago, IL - Southwest Side",0.990593511,748,1050,30,108.5577758,159100,112.6516464,$157K,,1141,0.363636364,917,6/1/2016,90,8/31/2016,,0.334224599
+All Residential,"Chicago, IL",0.97373622,1724,8895,64,159.1575566,229000,129.2574819,$189K,5.2,2759,0.19837587,2759,1/1/2014,30,1/31/2014,0.190893761,0.258700696
