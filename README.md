@@ -8,10 +8,10 @@ Plotting graphs to analyze Chicago housing market.
 * [Tools](#Tools)
 
 ## General info
-The housing market looks already recovered from last economic crisis. I'm doing the analysis to answer my hypothesis 
-and questions as following: 
-* Chicago Housing is growing up from 2012 - current.
-* The rise of house price in Chicago has slowed down
+The housing market looks already recovered from last economic crisis. I'm doing the analysis to answer my questions 
+as following: 
+* Chicago Housing is growing up from 2012 - current?
+* The rise of house price in Chicago has slowed down?
 * Mortgage rate has negative relationship with the numbers of home sold. 
 * Which area is the most expensive in Chicago?
 * How much did price increase/decrease over the years?
@@ -23,13 +23,29 @@ and questions as following:
 
 ## Conclusions 
 * Overall, the Chicago housing market is still growing but has slowed down from 2012 to current (2019). The median sale 
-price per square foot is continually increasing but the percentage of increase each year has decreased. Also, the 
-average monthly unit home sales has decreased since 2017. 
+price PSF is continually increasing but the percentage of increase each year has decreased. Also, the 
+average monthly unit sold has decreased since 2017. 
+
 * According to the mortgage vs. house price graph, there is no direct relationship between 30-year fixed mortgage rate
 and chicago house price.
-* From the graph "Median Sale Price Psf in Chicago (by side)", the hottest side in Chicago is central Chicago, the 
-second hottest side is north side. From the graph "The most expensive communities in Chicago", the hottest community is
-near north side.
+
+* From the graph "Median Sale Price Psf in Chicago (by side)", the top three expensive sides in descending order:
+    * Central Chicago
+    * North Side
+    * West Side
+
+* From the graph "The most expensive communities in Chicago", the top 8 expensive communities in descending order:
+    * Near North Side
+    * Lincoln Park
+    * The Loop
+    * Near South Side
+    * North Center
+    * Lake View
+    * Logan Square
+    * Avondale
+Within the 8 communities, the prices of Logan Square and Avondale have the most increase. It matches with the Chicago 
+area development plan. The city has been expanding to both communities after last economy crisis. 
+
 * Percentage change from 2012 - 2019:
     * 2013: There was a 15.22% median sale price per square feet increase in 2013 compared to 2012.
     * 2014: There was a 12.55% median sale price per square feet increase in 2014 compared to 2013.
@@ -38,6 +54,7 @@ near north side.
     * 2017: There was a 4.44% median sale price per square feet increase in 2017 compared to 2016.
     * 2018: There was a 3.19% median sale price per square feet increase in 2018 compared to 2017.
     * 2019: There was a 2.32% median sale price per square feet increase in 2019 compared to 2018.
+    
 * May, June and July are the hot months. 
 
 ## Tools
