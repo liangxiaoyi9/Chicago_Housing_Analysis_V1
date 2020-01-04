@@ -43,6 +43,7 @@ and chicago house price.
     * Lake View
     * Logan Square
     * Avondale
+    
 Within the 8 communities, the prices of Logan Square and Avondale have the most increase. It matches with the Chicago 
 area development plan. The city has been expanding to both communities after last economy crisis. 
 
