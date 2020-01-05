@@ -26,6 +26,8 @@ as following:
 price PSF is continually increasing but the percentage of increase each year has decreased. Also, the 
 average monthly unit sold has decreased since 2017. 
 
+![](images/fig1.png)
+
 * According to the mortgage vs. house price graph, there is no direct relationship between 30-year fixed mortgage rate
 and chicago house price.
 
